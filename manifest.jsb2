@@ -1,0 +1,22 @@
+{
+	"projectName": "voorwindenb2b",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "voorwindenb2b CSS",
+		"file": "voorwindenb2b.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/admin/jqadm/"
+		}]
+	}, {
+		"name": "voorwindenb2b JS",
+		"file": "voorwindenb2b.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/admin/jqadm/"
+		}]
+	}],
+	"resources" : []
+}
